@@ -1,0 +1,14 @@
+What are the types of Entity Attribute?
+
+There are five main types of attributes:
+
+
+1. Simple Attribute (Cannot be divided into smaller parts.)  -> `Name`, `Age`, `Gender`  
+
+2. Composite Attribute (Can be divided into smaller sub-parts that have their own meaning.) -> `FullName` → (`FirstName`, `LastName`), `Address` → (`Street`, `City`, `ZIP`)
+
+3. Derived Attribute (Value can be derived from another attribute.) -> `Age` (derived from `DateOfBirth`) Age() 
+                                        
+4. Multi-Valued Attribute (An entity can have multiple values for that attribute.) -> `PhoneNumbers`, `Degrees`, `EmailAddresses` {PhoneNumbers}                                  
+
+5. Key Attribute (A unique identifier for an entity — used to distinguish one entity from another.) -> `Student_ID`, `Employee_ID`                                              

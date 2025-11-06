@@ -1,0 +1,11 @@
+Q3. Write five numeric type Data Types of MySQL
+
+INT, SMALLINT, BIGINT, FLOAT, DOUBLE.
+
+CREATE TABLE numbers_example {
+   id INT,
+   age TINYINT, 
+   salary DECIMAL(10, 2)
+   distance DOUBLE,
+   count SMALLINT
+}

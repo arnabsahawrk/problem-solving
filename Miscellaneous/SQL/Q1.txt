@@ -1,0 +1,5 @@
+Q1. What is the difference between Data and Information
+
+Data is raw form. Unorganized and Random Value.
+
+Information is refined data. Organized and Structured.

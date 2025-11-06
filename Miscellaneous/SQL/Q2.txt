@@ -1,0 +1,7 @@
+Q2. Describe Primary Key, Composite Primary Key, Foreign Key with example
+
+A primary key is a unique field/column in a table that identifies a record using this key.
+
+A composite key is a key created by two or more fields to identify a record using this key.
+
+A foreign key is a primary key of another table that establishes a relationship between two tables.

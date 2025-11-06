@@ -1,0 +1,5 @@
+Write the differences between UNION and UNION ALL
+
+UNION: take all the unique elements from different sets.
+
+UNION ALL: take all the elements including duplicate from different sets.

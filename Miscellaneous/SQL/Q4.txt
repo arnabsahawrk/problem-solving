@@ -1,0 +1,4 @@
+Q4. Create a table named Employee with EmployeeId, EmployeeName, EmployeeSalary and JoiningDate
+a) Create a table
+b) Insert 2 employee data
+c) Delete 1 employee's data
